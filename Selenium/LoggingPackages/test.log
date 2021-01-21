@@ -1,0 +1,5 @@
+11/02/2020 05:11:24 PM - LoggingConfig - DEBUG -  Debug message
+11/02/2020 05:11:24 PM - LoggingConfig - INFO - Info Message
+11/02/2020 05:11:24 PM - LoggingConfig - WARNING - Warning message
+11/02/2020 05:11:24 PM - LoggingConfig - ERROR - Error Message
+11/02/2020 05:11:24 PM - LoggingConfig - CRITICAL - Critical message

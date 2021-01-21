@@ -1,0 +1,5 @@
+02/11/20 11:40:29 PM - UsingCustomLogger - DEBUG :  Debug message
+02/11/20 11:40:29 PM - UsingCustomLogger - INFO : Info Message
+02/11/20 11:40:29 PM - UsingCustomLogger - WARNING : Warning message
+02/11/20 11:40:29 PM - UsingCustomLogger - ERROR : Error Message
+02/11/20 11:40:29 PM - UsingCustomLogger - CRITICAL : Critical message

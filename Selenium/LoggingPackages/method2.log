@@ -1,0 +1,4 @@
+02/11/20 11:40:29 PM - method2 - INFO : Info Message
+02/11/20 11:40:29 PM - method2 - WARNING : Warning message
+02/11/20 11:40:29 PM - method2 - ERROR : Error Message
+02/11/20 11:40:29 PM - method2 - CRITICAL : Critical message
